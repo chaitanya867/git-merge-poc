@@ -19,7 +19,7 @@ instance_labels = {
     data_disk_info = {
       disk_name                   = "additional"
       data_disk_snapshot_selflink = ""
-      disk_size_gb                = 10
+      disk_size_gb                = 20
       disk_type                   = "pd-ssd"
     }
 
